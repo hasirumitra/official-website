@@ -190,7 +190,7 @@ export const TESTIMONIALS: Testimonial[] = [
     location: "Karnataka",
     quote: "Hasiru Mitra detected pink bollworm 45 days early. Saved my entire cotton crop worth ₹85,000.",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop" // Indian man portrait
+    avatar: "https://plus.unsplash.com/premium_photo-1722682239201-21c8173e776b?q=80&w=150&auto=format&fit=crop" // Indian man portrait
   },
   {
     id: 2,
@@ -198,7 +198,7 @@ export const TESTIMONIALS: Testimonial[] = [
     location: "Andhra Pradesh",
     quote: "Market Intelligence told me to wait 3 days. Price jumped ₹13/kg. Made ₹18,000 extra profit!",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?q=80&w=150&auto=format&fit=crop" // Indian woman portrait
+    avatar: "https://plus.unsplash.com/premium_photo-1680322470534-3124b9cc81ec?q=80&w=150&auto=format&fit=crop" // Indian woman portrait
   },
   {
     id: 3,
@@ -206,7 +206,7 @@ export const TESTIMONIALS: Testimonial[] = [
     location: "Maharashtra",
     quote: "I found 3 schemes worth ₹35,000 I didn't know about. The app helped me apply instantly.",
     rating: 5,
-    avatar: "https://images.unsplash.com/photo-1583341612074-cce5ec64f127?q=80&w=150&auto=format&fit=crop" // Older Indian man
+    avatar: "https://images.unsplash.com/photo-1609252509102-aa73ff792667?q=80&w=150&auto=format&fit=crop" // Older Indian man
   }
 ];
 
