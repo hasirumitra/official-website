@@ -1,0 +1,8 @@
+{
+  "name": "Hasiru Mitra",
+  "description": "AI-powered agricultural intelligence platform for Indian farmers, featuring disease detection, market intelligence, and weather advisory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
